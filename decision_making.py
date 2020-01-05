@@ -39,7 +39,7 @@ num = 1
 num = -1
 num = 0
 if num>0:
-    print("+ve or zero")
+    print("+ve")
 elif num==0:
     print("zero")
 else:
