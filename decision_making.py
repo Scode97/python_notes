@@ -22,7 +22,7 @@ print("This is printed anyways")
 num = 1
 num = -1
 num = 0
-if num>0:
+if num>=0:
     print("+ve or zero")
 else:
     print("-ve number)
